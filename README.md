@@ -37,4 +37,4 @@ Bienvenue sur **Ma Boutique Laravel**, un projet d'application e-commerce dével
 
 ```bash
 git clone https://github.com/ton-utilisateur/ma-boutique-laravel.git
-cd ma-boutique-laravel
+cd app
