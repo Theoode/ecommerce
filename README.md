@@ -28,7 +28,6 @@ Bienvenue sur **Ma Boutique Laravel**, un projet d'application e-commerce dével
 | **MySQL**   | Base de données relationnelle |
 | **PHP**     | Langage backend |
 | **Composer** | Gestionnaire de dépendances |
-| (Optionnel) **Jetstream / Breeze** | Authentification Laravel |
 
 ---
 
